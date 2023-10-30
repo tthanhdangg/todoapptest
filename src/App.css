@@ -1,0 +1,13 @@
+.icon {
+  cursor: pointer;
+  color: green;
+  /* background-color: red; */
+  transition: all 0.5s;
+}
+.icon:focus {
+  color: red;
+}
+
+:where(.css-dev-only-do-not-override-pr0fja).ant-space {
+  display: block;
+}
